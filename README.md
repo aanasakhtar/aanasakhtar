@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anas.
-- 👀 I’m interested in self-efficient problem-solving.
-- 🌱 I’m currently learning tools (programming languages) to get my interests satisfied. 
-- 💞️ I’m looking to collaborate on anything that allows me to learn something significant. 
+- 👀 I’m looking for opportunities to enhance my problem solving ability.
+- 🌱 I’m currently learning different programmming languages and their efficient area of application to make myself adaptive. 
+- 💞️ I’m looking to collaborate on anything that allows me to increase my learnings.
 - 📫 How to reach me: Linkedin: www.linkedin.com/in/anas-akhtar-65432b273
